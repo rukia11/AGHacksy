@@ -10,5 +10,5 @@ MainWindow_Developer::MainWindow_Developer(QWidget *parent) :
 
 MainWindow_Developer::~MainWindow_Developer()
 {
-    delete ui;
+    delete ui; //aa
 }
