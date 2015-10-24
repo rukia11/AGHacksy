@@ -95,6 +95,31 @@
       <string>Login</string>
      </property>
     </widget>
+    <widget class="QComboBox" name="comboBox">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>70</y>
+       <width>101</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>developer</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>manager</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>client</string>
+      </property>
+     </item>
+    </widget>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menuBar">
